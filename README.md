@@ -15,3 +15,7 @@ The uncontaminated reads from the flongle run of 3798 and the runs from a Nanopo
 assembly. 
 
 Stats for the assembly are recorded [here](https://docs.google.com/spreadsheets/d/18px8Unlwzny7Mnu992Y85ujnlOxSAIqyKWWtMOivWUA/edit#gid=1918994077). 
+
+
+## Flye Assembly
+
