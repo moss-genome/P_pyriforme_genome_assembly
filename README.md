@@ -20,3 +20,12 @@ Stats for the assembly are recorded [here](https://docs.google.com/spreadsheets/
 ## Flye Assembly
 
 1) Flye (2.8.2) assembly error resulting from redundant seqids between data from the flongle and data from the full nanopore run .err file [here](https://docs.google.com/document/d/1cF2G2NrGqWMf4neIBEYE-MmylCmR69YF_sV-bjRwcjc/edit)
+
+      A) Appended an 't' to the end of each seqid for data produced from flongle combined with full flongle run.              e.g   @b7cfd826-a42a-4a67-8d0d-3e72aadac842t  the file:   all_data_reps_removed3.fastq
+      B) Re-ran Flye with the new data file using .sh file here: [here](https://docs.google.com/document/d/1bD28EzeCxZIHPJxicKXgiIAW5zqgEg6Jq_kWXfvc2Bk/edit)
+      
+2) Flye runs for ~24 hrs and ends because of memory. 
+      A) Increased memory to 200G. Also the number of threads were in conflict so they were modified to be         consistent. .sh file [here](https://docs.google.com/document/d/15KVEgnsOwQNONehESThCVSKm_zJSeTSa6cMEwFSg544/edit)
+      B) Flye runs but terminates after 22 hours and ends but does not appear to have completed. see folders run2 and run3
+
+3) There is a possible error with the newest version of flye 2.8.2. Running Flye with oldest version of flye to test this. 
