@@ -4,7 +4,7 @@
 
 14813 - Physcomitrium pyriforme 
 
-Mansfield, CT. 
+Mansfield, CT     
 Ploidy: Haploid
 Genome size: ?
 Data available: One flongle run yields >50% contamination. No full nanopore run 
