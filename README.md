@@ -1,5 +1,28 @@
 # **_P. pyriforme_ genome assembly**
 
+## Sample Backround
+
+14813 - Physcomitrium pyriforme 
+
+Mansfield, CT. 
+Ploidy: Haploid
+Genome size: ?
+Data available: One flongle run yields >50% contamination. No full nanopore run 
+Status: Re-submitted for library prep. Pending.
+
+3798 - Physcomitriym pyriforme
+
+Dare County, North Carolina
+North Carolina
+Ploidy: diploid
+Heterozygosity: High heterozygosity - likely allopolyploid
+Genome size: ~500mb
+Data available: Flongle run and full nanopore run
+
+
+
+
+
 ## Flongle run
 Samples 14813 and 3798 were tested for contamination after a flongle run. 
 1. Nanoplot was used to gather stats about the run
