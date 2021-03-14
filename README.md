@@ -23,8 +23,8 @@ Data available: Flongle run and full nanopore run
 
 5074 - Physcomitrellopsis africana
 
-Ploidy: haploid
-Heterozygosity: low heterozygosity
+Ploidy: haploid   
+Heterozygosity: low heterozygosity  
 Data available: nanopore run 
 
 
