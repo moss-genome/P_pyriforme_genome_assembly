@@ -2,6 +2,7 @@
 
 ## Sample Backround
 
+
 14813 - Physcomitrium pyriforme 
 
 Mansfield, CT     
@@ -9,6 +10,7 @@ Ploidy: Haploid
 Genome size: ?    
 Data available: One flongle run yields >50% contamination. No full nanopore run     
 Status: Re-submitted for library prep. Pending.
+
 
 3798 - Physcomitriym pyriforme
 
@@ -19,6 +21,11 @@ Genome size: ~500mb
 Data available: Flongle run and full nanopore run
 
 
+5074 - Physcomitrellopsis africana
+
+Ploidy: haploid
+Heterozygosity: low heterozygosity
+Data available: nanopore run 
 
 
 
