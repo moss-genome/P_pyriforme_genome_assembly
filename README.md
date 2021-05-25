@@ -32,5 +32,7 @@ Data available: nanopore run
 
 Centrifuge/Kraken results are in this spreadsheet: https://docs.google.com/spreadsheets/d/11go67Dql56dhhBo1JlUH7nulwTDp2iDw1IhnIql3CwQ/edit#gid=1318488447
 
+All analyses related to the samples are under the relevant folders.
+
 
 
