@@ -8,8 +8,8 @@
 Mansfield, CT     
 Ploidy: Haploid   
 Genome size: ?    
-Data available: One flongle run yields >50% contamination. No full nanopore run     
-Status: Re-submitted for library prep. Pending.
+Data available: One flongle run yields >50% contamination.     
+Status: Full nanopore run, analysis pending
 
 
 3798 - Physcomitriym pyriforme
