@@ -31,6 +31,10 @@ Ploidy: haploid
 Heterozygosity: low heterozygosity  
 Data available: nanopore run 
 
+![phylogeny](phylogeny.png)
+
+3798 is a hybrid between _P pyriforme_ and _P hookeri_ . 14813 is not a part of this tree, however it was determined that 14813 is part of the purple subclade. Theoretically, 14813 could be a progenitor of 3798.
+
 
 ## Preliminary results
 
