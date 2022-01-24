@@ -2,6 +2,10 @@
 
 ## Sample Backround
 
+Sample name | Flye | Shasta | Masurca | Wengan | Initial estimated contamination levels (centrifuge)
+-- | -- | -- | -- | -- | --
+14813/Haploid | ~570 Mb | n/a | ~580 Mb | ~520 Mb | 
+3798/Polyploid | 
 
 14813 - Physcomitrium pyriforme 
 
@@ -9,7 +13,7 @@ Mansfield, CT
 Ploidy: Haploid   
 Genome size: ?    
 Data available: One flongle run yields >50% contamination.     
-Status: Full nanopore run, analysis pending
+Status: Full nanopore run
 
 
 3798 - Physcomitriym pyriforme
