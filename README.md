@@ -21,8 +21,13 @@ Status: Full nanopore run
 Dare County, North Carolina   
 Ploidy: diploid   
 Heterozygosity: High heterozygosity - likely allopolyploid  
-Genome size: ~500mb     
+Genome size (flow cytometry): 1.14 GB     
 Data available: Flongle run and full nanopore run
+
+BUSCO
+Viridiplantae: C:98.1%[S:8.7%,D:89.4%],F:0.2%,M:1.7%,n:425
+Embryophyta: C:88.0%[S:11.2%,D:76.8%],F:1.7%,M:10.3%,n:1614
+
 
 
 5074 - Physcomitrellopsis africana
