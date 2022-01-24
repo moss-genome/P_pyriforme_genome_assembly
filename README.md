@@ -2,10 +2,10 @@
 
 ## Sample Backround
 
-Sample name | Flye | Shasta | Masurca | Wengan | Initial estimated contamination levels (centrifuge)
+Sample name | Flye (Mb) | Shasta (Mb) | Masurca (Mb) | Wengan (Mb) | Initial estimated contamination levels (centrifuge)
 -- | -- | -- | -- | -- | --
-14813/Haploid | ~570 Mb | n/a | ~580 Mb | ~520 Mb | 
-3798/Polyploid | 
+14813/Haploid | ~570 | n/a | ~580 | ~520 | ~30%
+3798/Polyploid | ~2,250 | ~500 | ~1,200 | ~600 | ~40%
 
 14813 - Physcomitrium pyriforme 
 
@@ -34,8 +34,9 @@ Data available: nanopore run
 
 ## Preliminary results
 
-Centrifuge/Kraken results are in this spreadsheet: https://docs.google.com/spreadsheets/d/11go67Dql56dhhBo1JlUH7nulwTDp2iDw1IhnIql3CwQ/edit#gid=1318488447
-
+Centrifuge/Kraken results are in this spreadsheet: 
+3798: https://docs.google.com/spreadsheets/d/11go67Dql56dhhBo1JlUH7nulwTDp2iDw1IhnIql3CwQ/edit#gid=1318488447
+14813: https://docs.google.com/spreadsheets/d/10-T0KEMeH1iY9UJOcyUV9zMDkdjMJKMdn2GEunHj5x4/edit?usp=sharing
 All analyses related to the samples are under the relevant folders.
 
 
